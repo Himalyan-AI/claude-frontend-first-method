@@ -1,0 +1,11 @@
+{
+  "name": "ffm",
+  "description": "Frontend First Methodology — API-spec-driven development that perfects UX with mocked backends before building real ones, preventing frontend-backend drift and eliminating costly rework.",
+  "author": {
+    "name": "Himalyan AI",
+    "url": "https://github.com/Himalyan-AI"
+  },
+  "homepage": "https://github.com/Himalyan-AI/claude-frontend-first-method",
+  "version": "0.1.0",
+  "license": "MIT"
+}
